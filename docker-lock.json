@@ -1,0 +1,17 @@
+{
+	"dockerfiles": {
+		"Dockerfile": [
+			{
+				"name": "ubuntu",
+				"tag": "18.04",
+				"digest": "a61728f6128fb4a7a20efaa7597607ed6e69973ee9b9123e3b4fd28b7bba100b"
+			},
+			{
+				"name": "ubuntu",
+				"tag": "18.04",
+				"digest": "a61728f6128fb4a7a20efaa7597607ed6e69973ee9b9123e3b4fd28b7bba100b"
+			}
+		]
+	},
+	"composefiles": {}
+}
