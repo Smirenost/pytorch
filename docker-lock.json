@@ -4,12 +4,12 @@
 			{
 				"name": "ubuntu",
 				"tag": "18.04",
-				"digest": "e94703a91b5045b1faf3d018d3f16fbf3180f9de426dffc66e11ed58a8cc9ccb"
+				"digest": "89ff3f4e9bd4ab398f4518cfb403be40b0338e641855b382dad92882599d19e0"
 			},
 			{
 				"name": "ubuntu",
 				"tag": "18.04",
-				"digest": "e94703a91b5045b1faf3d018d3f16fbf3180f9de426dffc66e11ed58a8cc9ccb"
+				"digest": "89ff3f4e9bd4ab398f4518cfb403be40b0338e641855b382dad92882599d19e0"
 			}
 		]
 	}
