@@ -1,16 +1,16 @@
 {
-	"dockerfiles": {
-		"Dockerfile": [
-			{
-				"name": "ubuntu",
-				"tag": "18.04",
-				"digest": "ea188fdc5be9b25ca048f1e882b33f1bc763fb976a8a4fea446b38ed0efcbeba"
-			},
-			{
-				"name": "ubuntu",
-				"tag": "18.04",
-				"digest": "ea188fdc5be9b25ca048f1e882b33f1bc763fb976a8a4fea446b38ed0efcbeba"
-			}
-		]
-	}
+  "dockerfiles": {
+    "Dockerfile": [
+      {
+        "name": "ubuntu",
+        "tag": "18.04",
+        "digest": "ea188fdc5be9b25ca048f1e882b33f1bc763fb976a8a4fea446b38ed0efcbeba"
+      },
+      {
+        "name": "ubuntu",
+        "tag": "18.04",
+        "digest": "ea188fdc5be9b25ca048f1e882b33f1bc763fb976a8a4fea446b38ed0efcbeba"
+      }
+    ]
+  }
 }
